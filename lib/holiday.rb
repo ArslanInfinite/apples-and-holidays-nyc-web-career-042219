@@ -61,7 +61,7 @@ def all_winter_holiday_supplies(holiday_hash)
           holiday.each do |day, i|
             i.each do |x|
               list << i
-
+            end
             end
           end
         end
